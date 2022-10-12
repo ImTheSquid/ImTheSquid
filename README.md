@@ -13,7 +13,7 @@ My favorite laguages right now include:
 Find me on Discord @ImTheSquid#8897 or Twitter @ImTheSquid11
 
 ## 🛠 BD Plugins Update
-Due to recent breaking changes to BetterDiscord and a lack of a good way to patch these plugins at the current moment, I will not be fixing any issues with them. Once infrastructure has been setup to deal with all that has changed, I will start fixing issues and bringing my plugins back to a working state.
+With the release of BetterDiscord 1.8.0, I'm now working on updating my plugins to be compatible with Discord's new system. My official plugin has been updated; I will work on unofficial plugins as soon as I have the time.
 
 ## 💬 AllujaMessages
 Due to a [SwiftUI bug](https://developer.apple.com/forums/thread/712510), the `onMessagesChange` `proxy` argument can't be used to scroll to bottom on iOS 16 without a crash. Other versions of iOS work fine, and once this bug is resolved iOS 16 should work fine too.
