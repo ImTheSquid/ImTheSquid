@@ -10,7 +10,7 @@ My favorite laguages right now include:
 - JS/TS
 - Python
 
-Find me on Discord @ImTheSquid#8897 or Twitter @ImTheSquid11
+Find me on Discord @ImTheSquid#8897
 
 ## 🛠 BD Plugins Update
 With the release of BetterDiscord 1.8.0, I'm now working on updating my plugins to be compatible with Discord's new system. StickerSnatcher and SplitLargeFiles have been updated, and Tuxphones is currently in-progress; I will work on other plugins as soon as I have the time.
