@@ -13,10 +13,10 @@ My favorite laguages right now include:
 Find me on Discord @ImTheSquid#8897
 
 ## 🛠 BD Plugins Update
-With the release of BetterDiscord 1.8.0, I'm now working on updating my plugins to be compatible with Discord's new system. StickerSnatcher and SplitLargeFiles have been updated, and Tuxphones is currently in-progress; I will work on other plugins as soon as I have the time.
+### Additional Update
+I have recently become incredibly busy with school, so I am pausing work on all BetterDiscord plugins for a while. I don't know when I'll be able to start working on them again.
 
-## 💬 AllujaMessages
-AllujaMessages has now been fixed for iOS 16 since version 1.0.4.
+With the release of BetterDiscord 1.8.0, I'm now working on updating my plugins to be compatible with Discord's new system. StickerSnatcher and SplitLargeFiles have been updated, and Tuxphones is currently in-progress; I will work on other plugins as soon as I have the time.
 
 <!--
 **ImTheSquid/ImTheSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
