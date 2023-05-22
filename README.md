@@ -12,6 +12,8 @@ My favorite laguages right now include:
 
 Find me on Discord @ImTheSquid#8897
 
+Take a look at [my resume](https://github.com/ImTheSquid/Resume/blob/main/JackHoganResume.pdf)!
+
 ## 🛠 BD Plugins Update
 ### Additional Update
 I have recently become incredibly busy with school, so I am pausing work on all BetterDiscord plugins for a while. I don't know when I'll be able to start working on them again.
