@@ -8,9 +8,9 @@ My favorite laguages right now include:
 - Rust
 - Swift
 - JS/TS
-- Python
+- Svelte
 
-Find me on Discord @ImTheSquid#8897
+Find me on Discord @imthesquid
 
 Take a look at [my resume](https://github.com/ImTheSquid/Resume/blob/main/JackHoganResume.pdf)!
 
