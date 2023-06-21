@@ -10,7 +10,7 @@ My favorite laguages right now include:
 - JS/TS
 - Svelte
 
-Find me on Discord @imthesquid
+Find me on Bluesky @jackhogan.dev or Discord @imthesquid
 
 Take a look at [my resume](https://github.com/ImTheSquid/Resume/blob/main/JackHoganResume.pdf)!
 
