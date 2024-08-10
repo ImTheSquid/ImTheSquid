@@ -10,15 +10,9 @@ My favorite laguages right now include:
 - JS/TS
 - Svelte
 
-Find me on Bluesky @jackhogan.dev or Discord @imthesquid
+Find me on Discord @imthesquid. I have Bluesky (@jackhogan.dev) but I don't use it often.
 
-Take a look at [my resume](https://github.com/ImTheSquid/Resume/blob/main/JackHoganResume.pdf)!
-
-## 🛠 BD Plugins Update
-### Additional Update
-I have recently become incredibly busy with school, so I am pausing work on all BetterDiscord plugins for a while. I don't know when I'll be able to start working on them again.
-
-With the release of BetterDiscord 1.8.0, I'm now working on updating my plugins to be compatible with Discord's new system. StickerSnatcher and SplitLargeFiles have been updated, and Tuxphones is currently in-progress; I will work on other plugins as soon as I have the time.
+Take a look at [my site](https://jackhogan.dev) or [my resume](https://github.com/ImTheSquid/Resume/blob/main/JackHoganResume.pdf)!
 
 <!--
 **ImTheSquid/ImTheSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
