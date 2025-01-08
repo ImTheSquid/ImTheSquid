@@ -12,7 +12,7 @@ My favorite laguages right now include:
 
 Find me on Discord @imthesquid. I have Bluesky (@jackhogan.dev) but I don't use it often.
 
-Take a look at [my site](https://jackhogan.dev) or [my resume](https://github.com/ImTheSquid/Resume/blob/main/JackHoganResume.pdf)!
+Take a look at [my site](https://jackhogan.dev) or [my resume](https://github.com/ImTheSquid/Resume/blob/main/two.pdf)!
 
 <!--
 **ImTheSquid/ImTheSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
